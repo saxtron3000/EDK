@@ -1,0 +1,138 @@
+**WORKSHOP 6**
+
+**TRANSACTION FEES & UTXOs**
+
+**Activity type** 		Role play
+
+ 
+
+**Time**			20 minutes
+
+ 
+
+**Source		[www.bitcoinforplebs.com](www.bitcoinforplebs.com) **
+
+**Grouping**
+
+
+
+* Min. 4 participants
+
+**Materials & Equipment**
+
+
+
+* 3x objects
+    * Love letter to Satoshi
+    * 4x BB merch stickers
+    * 3x merch objects
+    * 1x merch objects light
+    * 1x merch object heavy
+* Shipping boxes
+    * DEADLINES
+* Bull Bitcoin Fee Multiple
+* Masking tape
+* MOST EXPENSIVE poster
+* LEAST EXPENSIVE poster
+* Plastic Money
+* Block template
+* Deck of cards
+* Box used as mempool.
+* Mail van for miner
+* Headlamp for miner
+
+**Key Concepts**
+
+
+
+* Transaction fees
+* UTXOs
+* UTXO Consolidation
+
+**Blind Spots**
+
+
+
+* 
+
+**Connections with Other Workshops**
+
+
+
+*  
+
+**PROCEDURE**
+
+<span style="text-decoration:underline;">OPENING</span>
+
+
+    	
+
+
+
+* Participant requirements	N/A
+* Personal introduction	About yourself
+
+<span style="text-decoration:underline;">PRE-ACTIVITY</span>									<span style="text-decoration:underline;">3 minutes</span>
+
+
+
+* Anticipatory Set
+    * What was the most expensive thing you have ever shipped?
+    * Why did it cost so much?
+* Objective and purpose in participant’s words
+    * Learn about the Fee Structure of Bitcoin and the importance of UTXO management.
+
+<span style="text-decoration:underline;">ACTIVITY</span>									<span style="text-decoration:underline;">25 minutes</span>
+
+
+     
+
+
+
+1. ASSIGN ROLES - The workshop leader is the Postal worker (Use a Name Tag) at the counter… Explain that a Bitcoin Miner is like a Postal worker.
+2. DECK OF CARDS - Demonstrate that Bitcoin fees are a bidding war. 
+    1. Deal out the pack of cards to the participants - about 7 cards each.
+    2. Place the paper with ‘BLOCK #1’ on the table and Explain that the miner can only choose <span style="text-decoration:underline;">three** transactions per block</span>.
+    3. Allow the participants to ‘bid’ using the cards to get their transactions ‘accepted’ during each block.
+    4. Each player places a card face-up on the table.
+    5. You then pick the three highest cards and place them on the Block #1 paper - these three cards (transactions) have been ‘mined’.
+    6. Return the cards that were not mined to the participants.
+    7. Repeat the process for blocks 2, 3, 4, until participants understand the concept.
+
+     
+
+3. MAILING
+    8. Explain to participants that they are at the post office. They have items to ship and deadlines to respect.
+    9. Ask participants to arrange the objects in order of which they think will be the most expensive to the least expensive to ship.
+    10. Discuss the reasons and criteria for sending parcels (size, weight, speed)
+4. TRANSACTING
+    11. Explain how transacting with Bitcoin is similar to sending a parcel. Ask which of the three criteria are important (~~size~~, weight, speed).
+    12. Explain how UTXOs function. 
+    13. Ask the participants to estimate the fees of sending the amounts of ‘bitcoin’ money on the table.
+        1. For example, 
+            1. 0.1 			LOWEST
+            2. 0.01, 0.01 		LOW
+            3. 0.1, 0.1, 0.1 		HIGH
+            4. 0.02, 3, 0.2, 0.002	HIGHEST
+5. CONSOLIDATING
+    14. Explain that when the network is busy, fees are high. When the network is quiet, fees are low.
+    15. Using the funds on the table, demonstrate how a UTXO consolidation would work. 
+
+<span style="text-decoration:underline;">FOLLOW-UP</span>									<span style="text-decoration:underline;">5 minutes</span>
+
+
+
+1. Take a look at mempool and explore current fees.
+2. Explain the advantages of using the Bull Bitcoin
+
+<span style="text-decoration:underline;">CLOSE</span> 									<span style="text-decoration:underline;">4-5 minutes </span>
+
+
+
+    * Any questions?
+    * Mention connected workshops
+    * Ask where people are from
+    * Connect them with other locals-meetups-businesses etc
+
+**<span style="text-decoration:underline;">NOTES</span> **
