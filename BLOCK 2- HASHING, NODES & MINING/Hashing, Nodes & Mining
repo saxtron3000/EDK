@@ -1,0 +1,163 @@
+**HASHING, NODES & MINING**
+
+
+**Activity type** 		DEMONSTRATION
+
+ 
+
+**Time**			50 minutes
+
+ 
+
+**Source		https://github.com/anders94/blockchain-demo**
+
+**Grouping**
+
+
+
+* MENTOR to GROUP; IN TABLES; WHOLE GROUP
+    * +/- 12 tables
+    * +/- 8 participants per table
+    * Conference Centre setup’
+
+**Materials & Equipment**
+
+
+
+* -Laptop with Internet connection & Power Supply
+* -Large screen if possible… (HDMI Cable etc)
+* -QR code for website [https://andersbrownworth.com/blockchain](https://andersbrownworth.com/blockchain/blockchain)
+* -Three Text objects per table
+    * 2x Transactions (see below)
+    * 2x Bitcoin White Paper (2 correct, 1 incorrect )
+    * 2x  Text (The quick brown fox jumps over the lazy dog.)
+* -Three .txt files on a USB stick, pre-loaded on desktop
+    * Transactions (see below)
+    * Bitcoin White Paper
+    * The quick brown fox jumps over the lazy dog
+* Copy-paste folder
+* - Yarn/string
+* - Yarn needles
+* - Scissors x3
+* -Beads to fit yarn
+* -Visual aide
+* -Red and Green confirm tabs
+* - Mempool with beads
+
+**Key Concepts**
+
+
+
+* Algorithms
+* SHA256 Hashing
+* Blockchain 101
+* Intro to Mining
+* Don’t trust verify
+
+**Blind Spots**
+
+
+
+* Time could be an issue here. It moves pretty quickly.
+
+**Connections with Other Workshops & Talks**
+
+
+
+* Bitcoin & Nuclear Power: Catalyzing Canada's Energy Future - 12:15 w/Ryan MacLeod
+* Heating Kitsilano Pool with Bitcoin Mining - Bitcoin, Heat Recapture, and the Environment - PANEL
+
+**PROCEDURE**
+
+<span style="text-decoration:underline;">OPENING</span>
+
+
+    	
+
+
+
+* Participant requirements	N/A
+* Personal introduction	About yourself
+
+<span style="text-decoration:underline;">PRE-ACTIVITY</span>									<span style="text-decoration:underline;">2 minutes</span>
+
+
+
+* Anticipatory Set
+    * *What do you know about Bitcoin?*
+    * *What is a cryptocurrency?*
+    * *What is a blockchain?*
+    * *What is an [algorithm](https://dictionary.cambridge.org/dictionary/english/algorithm)?*
+* Objective and purpose in participant’s words
+    * Understand the cryptographical basics of Bitcoin and the blockchain
+    * *LET STUDENTS KNOW THAT THE CONCEPTS COVERED MAY TAKE SOME TIME TO BE FULLY UNDERSTOOD*
+        * *Mention link to RESOURCES via QR Code for further experimentation*
+        * *Mention that questions are welcome at the end*
+
+<span style="text-decoration:underline;">ACTIVITY</span>									<span style="text-decoration:underline;">45 minutes</span>
+
+This activity will demonstrate the mechanics of blockchain by first illustrating with PHYSICAL examples, using real-life objects and then demonstrating a DIGITAL example using the [Blockchain Demo](https://andersbrownworth.com/blockchain/) by **Anders Brownsworth**.
+
+
+     
+
+
+
+1. ANALOGUE 								(10 minutes)
+    1. First, pass out the **three text objects** to participants around the table. Ask them to verify that the information on their text matches exactly to the other text. Give them two minutes. Use the **red/green confirmation tabs** to show if they are in consensus or not. 
+    2. Ask participants around the room to <span style="text-decoration:underline;">explain how they verified</span> and share with the group.
+    3. Use the visual support to <span style="text-decoration:underline;">explain the limitations</span> of verifying even small amounts of information. (local vs remote, transmission, man in the middle, censorship)
+    4. Next, distribute the whitepaper to each participant.  Ask them again to verify that the information on their documents match exactly with the others. Use the **red/green confirmation tabs** to show if they are in consensus or not.
+    5. Use the visual support to <span style="text-decoration:underline;">explain the limitations</span> of verifying large amounts of information. Show them the error they missed.
+    6. Finally, distribute the transactions to each participant.  Ask them again to verify that the information on their documents match exactly with the others. Use the **red/green confirmation tabs** to show if they are in consensus or not.
+    7. Use visual support to <span style="text-decoration:underline;">explain the limitations</span> of verifying important information.
+    8. Explain how Bitcoin uses hashing to solve this issue.
+2. DIGITAL 								(5 minutes)
+    9. **Digital **- Use the <span style="text-decoration:underline;">Hash</span> demonstration to show how data is computed into a hash using the SHA256 algorithm.
+    10. Show a QR code and get participants to have the original text phrase. Compare this with others at the table
+    11. **Hash larger information using a large text such as two books.**
+    12. Make the analogy with a hash and the beads as simple format of a complex data set (1 bead = 1 block)
+3. NODE, CONSENSUS & BLOCKCHAIN 				(15 minutes)
+    13. Explain the role of a node.
+    14. Explain participants will now function as nodes on a network. They will <span style="text-decoration:underline;">verify large amounts of information</span> simply by confirming the colour (hash) of the bead. 
+    15. Hand the **yarn** out to the participants and <span style="text-decoration:underline;">ask them to verify</span> their blockchains with one another at the table. Use the **red/green confirmation tabs** to show if they are in consensus or not.
+    16. Show how the blocks are the s*ame on the chains*. Show how some are not the same. Ask participants (nodes) who are out of consensus to modify their bead colour to fall back into consensus.
+    17. Explain the idea of *consensus across a distributed network*.
+4. MINING								(15 minutes)
+    18. **Explain the role of a miner - **hashing information and looking for a specific. Use the Blockchain demo to illustrate that it is the nonce that changes and the hash requires leading zeros.
+    19. Ask for one volunteer for each table. Give them 6 dice and a miner card.
+    20. Place a mempool next to the miner with a selection of beads.
+    21. Place a second pot of beads in the centre of the table with enough for all participants.
+    22. Ask all participants to turn their confirmation cards over to red.
+    23. Explain that the miner must roll all six dice at once to produce a set of six numbers where at least three are 1’s. When this happens, they can pull a bead from the mempool and add it to their blockchain (thread).
+    24. Mine BLOCK XXX.
+    25. When the miner rolls three 1’s the participant must act as nodes to verify the information (the dice) if the roll is correct, they can also copy the miner by adding the same colour bead on to their blockchain.
+    26. Nodes who update their blockchain will raise their confirmation tabs showing green.
+    27. The rest of the room can now verify and update their chain until the entire room is in consensus. 
+    28. Then ask the room to mine BLOCK XXX+1 and repeat the process.
+5. DIFFICULTY
+    29. **If the mining is too quick, adjust the difficulty.  \
+If there is time, explain the difficulty adjustment and check it out on bullbitcoin.mempool.space**
+
+<span style="text-decoration:underline;">CLOSE</span> 									<span style="text-decoration:underline;">1 minutes </span>
+
+
+
+    * Any questions? If no time, at the end of the day.
+    * Mention connected workshops
+    * Reorganise materials for next workshop
+
+<span style="text-decoration:underline;">REFLECT</span>									<span style="text-decoration:underline;">2 minutes</span>
+
+
+
+1.  Can Bitcoin be manipulated?
+
+
+
+**<span style="text-decoration:underline;">NOTES</span>**
+
+
+
+* Set-up the blockchains so that there is a majority consensus but some chains are out of consensus. 
+* Steps 1-4 are the most important. Steps 4 & 5 can be added if there is time.
