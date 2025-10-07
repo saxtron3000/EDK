@@ -1,0 +1,135 @@
+**BYZANTINE GENERALS**
+
+**Activity type** 	Cooperative game
+
+ 
+
+**Time**		20 minutes	
+
+ 
+
+**Source	**Mi Primer Bitcoin - 6.1
+
+**Grouping**
+
+
+
+* Whole group
+* 5-10 participants
+
+**Materials & Equipment**
+
+
+
+* ATTACK & RETREAT cards
+* TRAITOR & LOYALIST cards
+* ‘Castle’ in the centre
+* (Working node - optional)
+* Battlefield
+* Toy soldiers
+* Attack (GREEN) & RETREAT (RED) flag - Card & Popsicle sticks
+* Example Battleplan
+* Battle plans (aka the distributed ledger)
+
+Key Concepts
+
+
+
+* Distributed ledger
+* Nodes
+* 51% attack
+
+Blind Spots
+
+
+
+* Will have to play this game to see if it works.
+* Make sure the distributed ledger works.
+
+Connections with Other Workshops
+
+
+
+* **WORKSHOP 6** - Transactions - Sending and Receiving
+
+**PROCEDURE**
+
+<span style="text-decoration:underline;">OPENING</span>
+
+
+    	
+
+
+
+* Participant requirements	N/A
+* Personal introduction	About yourself
+
+<span style="text-decoration:underline;">PRE-ACTIVITY</span>									<span style="text-decoration:underline;">2 minutes</span>
+
+
+
+* Anticipatory Set
+    * Why is consensus important in Bitcoin?
+    * Discuss the phrase ‘Rules without Rulers’	
+* Objective and purpose in participant’s words
+    * To understand how consensus is achieved in a group.
+1. How do independent parties (who can not trust each other) come to an agreement or consensus without having to rely on a trusted third party?
+
+<span style="text-decoration:underline;">ACTIVITY</span>									<span style="text-decoration:underline;">15 minutes</span>
+
+
+     
+
+
+
+1. GIVE CONTEXT
+    1. Explain the battlefield laid out on the table. Each participant is a General leading their soldiers. Their mission is to lead a successful attack on the citadel in the centre of the table. To successfully conquer the citadel, the generals must decide as a group whether to attack or retreat; some may prefer to attack, while others prefer to retreat. The important thing is that all generals agree on a common decision, for a halfhearted attack by a few generals would become a rout, and would be worse than either a coordinated attack or a coordinated retreat.
+2. DECENTRALISED (BARTER MARKETS)
+    2. Hand out ATTACK and RETREAT cards to each participant
+    3. For example, in a game with 5 participants, hand out 5 ATTACK and 5 RETREAT to each
+    4. Countdown 3-2-1 - then participants reveal their orders to their ‘troops’. The attack or retreat should probably be a failure.
+    5. Explain how this represents war with tribes or clans (barter and trade).
+3. CENTRALISED (BANKING)
+    6. Acting as a Commander-in-Chief, the workshop leader, hands out ATTACK or RETREAT orders.
+    7. Countdown 3-2-1 - then participants reveal their orders to their ‘troops’. The attack or retreat should be a total success.
+    8. Distribute the Traitor and Loyalist cards. Explain that the traitors must work to ensure the attack is a failure. ie. doing the opposite of the group.
+    9. Repeat the steps above but this time, explain that the traitor generals should aim to sabotage the mission by going against the order of the Commander-in-Chief.
+    10. Discuss how centralised systems achieve consensus through a central authority. Explain the weaknesses and issues of this type of system (trust, cancelled, hacked, compromised, exploited)
+4. DISTRIBUTED SYSTEM (BITCOIN) - Ledge
+    11. Explain that the Commander-in-Chief has been poisoned and that the generals must coordinate an attack without the assistance of Battlefield Command. A **battle plan** is handed to each unit, giving them a pattern to follow for the next few days in the conquest.
+    12. Hand out the battle plan and show participants how it works using the **Example Battleplan.**
+    13. The generals use the battle plan to see the past history of the other generals. They can identify the traitors and calculate the next strategy (ATTACK or RETREAT).
+    14. Countdown 3-2-1 - then participants reveal their orders to their ‘troops’. The attack or retreat should be a success.
+
+<span style="text-decoration:underline;">FOLLOW-UP</span>									<span style="text-decoration:underline;">5 minutes</span>
+
+
+
+1.  Why Bitcoin (vs. other cryptocurrencies)
+    1. Node map
+    2. Explore  [https://bullbitcoin.mempool.space](https://bullbitcoin.mempool.space) and different mempools to show how they are all synced.
+
+<span style="text-decoration:underline;">CLOSE</span> 									<span style="text-decoration:underline;">4-5 minutes </span>
+
+
+
+    * Any questions?
+    * Mention connected workshops
+    * Ask where people are from
+    * Connect them with other locals-meetups-businesses etc
+
+**<span style="text-decoration:underline;">NOTES</span> **
+
+<span style="text-decoration:underline;">Participants & Malicious Nodes aka ‘Traitors’</span>
+
+Min. 5  - 1 of 5
+
+6 Participants = 2 of 6
+
+7 participants = 3 of 7
+
+8 participants = 3 of 8
+
+9 participants = 4 of 9
+
+10 participants = 5 of 10
