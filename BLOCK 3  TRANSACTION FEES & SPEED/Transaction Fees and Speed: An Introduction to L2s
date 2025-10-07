@@ -1,0 +1,126 @@
+**BLOCK 3**
+
+**TRANSACTION FEES & SPEED: An Introduction to L2s**
+
+**Activity type** 		Role play
+
+ 
+
+**Time**			50 minutes
+
+**Grouping**
+
+
+
+* N TABLES
+    * +/- 12 tables
+    * +/- 8 participants per table
+    * Conference Centre setup’
+
+**Materials & Equipment**
+
+
+
+* 3x objects
+    * 1x Love letter to Satoshi
+    * 4x BB merch stickers
+    * 3x merch objects
+    * 1x merch objects light
+    * 1x merch object heavy
+* - Masking tape
+* - MOST EXPENSIVE poster
+* - LEAST EXPENSIVE poster
+* - Deck of cards
+* Box used as mempool
+* Famous bitcoiner cards
+* Postal Worker card
+* Miner card
+* Block templates cards
+* Masking tape
+
+**Key Concepts**
+
+* Transaction fees
+* UTXOs
+* Mempool
+* (Consolidation)
+
+**Blind Spots**
+
+* Does not mention hash price
+* Glosses over the fact that you never hold your UTXOs
+* Does not cover UTXO consolidation
+
+
+**PROCEDURE**
+
+
+* Participant requirements	N/A
+* Personal introduction	About yourself
+
+
+
+* Anticipatory Set
+    * What was the most expensive thing you have ever shipped?
+    * Why did it cost so much?
+* Objective and purpose in participant’s words
+    * Learn about the Fee Structure of Bitcoin and the importance of UTXO management.
+
+
+     
+
+
+
+1. POSTAL FEES
+    1. Explain that Bitcoin fees are similar to sending something in the mail at the post office -  To get bitcoin to where it needs to go, you need to pay for the shipping.
+    2. Place the items to ship on the table and explain each one. Explain that they are all being shipped to… add person.
+    3. Give each table 3 minutes to <span style="text-decoration:underline;">arrange the objects</span> in order of which they think will be the <span style="text-decoration:underline;">most expensive to the least expensive</span> to ship. Use red and green confirmation tabs to show consensus. Review the results as a group.
+    4. Now, explain the <span style="text-decoration:underline;">PRIORITY</span> of each package. Does this affect the cost? Give each table 1 minute to re-arrange the objects. Discuss
+    5. Then, change the <span style="text-decoration:underline;">destination</span> of each package. Does this affect the cost? Give each table 1 minute to re-arrange the objects. Discuss.
+2. BITCOIN FEES
+    6. Explain how bitcoin is similar but also different to sending in the mail. Explain each difference and ask participants to imagine the objects are being sent via the Bitcoin network.
+    7. First, explain that the PRIORITY is still important. 
+    8. Then mention that destination is irrelevant and why.  Does this affect the cost? Give each table 1 minute to re-arrange the objects.
+    9. Finally, explain that the size (dimensions & weight) are irrelevant, it is the <span style="text-decoration:underline;">number of items (UTXOs) </span>in each package that count. Explain why. Does this affect the cost? Give each table 1 minute to re-arrange the objects.
+    10. Compare the cost of the packages to the order in on the visual aid. Is the same - use red and green confirmation tabs to show consensus.
+    11. Explain that fees are elastic - when times are busy, fees are higher. When they are quite they are lower
+    12. Show a historical graphic of transaction fee history and the fee multiple
+    13. Collect in the materials.
+3. SENDING UTXOs - Demonstrate that Bitcoin fees are a bidding war. 
+    14. Deal out the pack of cards to the participants - about 7 cards each. Give each participant a dozen or so beads. 
+    15. Ask for a volunteer at each table to act as the miner. Hand them the minder card, six dice and the block templates.
+    16. Explain that participants must aim to get rid of their cards and send them to where they need to go. 
+    17. Place a mempool in the centre of the table. Explain that the mempool will hold pending transactions (UTXOs) and associated fees.
+    18. Place the paper with ‘BLOCK #1’ on the table and explain that the miner has to roll three leading zeros, then can only choose <span style="text-decoration:underline;">6 Cards (UTXOs) to place in the block.</span>.
+    19. Each player places their a cards face-up on the table in the mempool. Next to their card, they can place beads to represent the fees required.
+    20. Allow the participants to ‘bid’ using the cards to get their transactions ‘accepted’ during each block. Users can increase the fees by adding beads next to each transaction in the mempool.
+    21. Tell the miner they can start mining (rolling the dice). When they hit a correct ‘hash’, they select the transactions (cards & beads) from the mempool  and place them in to Block #1
+    22. Repeat the process for Blocks #2, 3, 4, until participants understand the concept.
+    23. Once a participant has completed all transactions (no more cards left), they can indicate with a Confirmation tab (GREEN)
+
+     
+
+4. LIQUID
+    24. Explain to participants that the liquid network is a solution to the issues with high fees and slow blocks.
+    25. Redistribute cards, beads and reset the blocks to Block #1.
+    26. Now carry out the same process but without dice rolls (proof of work) aslo, cap fees at one bead per transaction.
+    27. Play a few blocks and confirm when all is spent
+    28. Collect in all materials.
+5. LIGHTNING
+    29. Explain to participants that the lightning network is an even quicker solution which decentralises the payments away from the miners and across to nodes.
+    30. Hand out beads and name cards of famous Bitcoiners give one to each participant. 
+    31. Prepare the table by placing tape across the table across the table to connect some participants. Ask participants to place (set number of) beads on the channels to represent liquidity.
+    32. Using the visual support, prompt participants to send funds to each other using the channels. Balancing liquidity as you go..
+    33. If channels are not possible, encourage participants to open new channels using their liquidity.
+
+
+
+1. Take a look at mempool and explore current fees.
+2. Explain the advantages of using the Bull Bitcoin wallet and fee multiple
+
+
+
+    * Any questions?
+    * Mention connected workshops
+    * Ask where people are from
+    * Connect them with other locals-meetups-businesses etc
