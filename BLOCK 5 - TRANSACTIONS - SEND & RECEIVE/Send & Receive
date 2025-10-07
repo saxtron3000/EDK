@@ -1,0 +1,124 @@
+**WORKSHOP 5**
+
+**TRANSACTIONS - SEND & RECEIVE**
+
+**Activity type** 		Role play
+
+ 
+
+**Time**			20 minutes
+
+ 
+
+**Source		**NA
+
+**Grouping**
+
+
+
+* Minimum 4 participants
+
+**Materials & Equipment**
+
+
+
+* Addresses
+* [Invoices](https://docs.google.com/document/d/1GM1NMmS7AKGFi4KuCSVa0CprxwDr3uBoTXh9GRRVsPQ/edit?usp=sharing)
+* 2x Safety deposit boxes - or more if possible
+* 2x demo Bull Bitcoin wallets
+* Fake plastic Bitcoin
+* Costumes (Node, Miner, Hacker)
+* Two wallets with on-chain funds
+* (Hello, my name is… Stickers)
+* PSBT paper
+* 3x pens
+* Miner accessory (headlamp)
+* Node accessory (knotted rope) - *see Workshop 2*
+* Box - serving as mempool.
+
+Key Concepts
+
+
+
+* PSBTs & transaction signing
+* The Role of Miners and Nodes
+* Mempool
+* PrivateKey
+
+Blind Spots
+
+
+
+* 
+* 
+
+Connections with Other Workshops
+
+
+
+* Fees
+* Hardware wallets
+* Unit Bias
+
+**PROCEDURE**
+
+<span style="text-decoration:underline;">OPENING</span>
+
+
+    	
+
+
+
+* Participant requirements	N/A
+* Personal introduction	About yourself
+
+<span style="text-decoration:underline;">PRE-ACTIVITY</span>									<span style="text-decoration:underline;">2 minutes</span>
+
+
+
+* Anticipatory Set
+    * What was the last thing you sent in the mail?
+    * Can you describe the process?
+* Objective and purpose in participant’s words
+    * Learn how to send and receive Bitcoin.
+
+<span style="text-decoration:underline;">ACTIVITY</span>									<span style="text-decoration:underline;">20 minutes</span>
+
+
+     
+
+
+
+1.  Assign roles and materials to each participant:-
+    1. Peer 1 ‘**Alice**’ - Deposit box (containing Bitcoin and Pen), PSBT papers, invoices, address list, private key.
+    2. Peer 2 ‘**Bob**’- same as above
+    3. (Peer 3 ‘**Charlie**’ if more than 4 participants)
+    4. ‘Maude the Node’ -  Knotted rope (aka the distributed ledger/copy of the blockchain)
+    5. ‘Regina the Miner’ - Headlamp
+    6. Hacker - Is the workshop leader - this will come up later.
+2. INVOICE - Ask  Alice to complete an **invoice form**, place it in an envelope and send it to Bob. Alice will use the addresses on the outside of the deposit box. 
+3. BUILD - Bob will use a PSBT form to Build the transaction. 
+4. SIGN - Bob takes his private key to open his ‘wallet’ (deposit box) and sign the transaction using the pen that is inside the wallet.
+5. BROADCAST- Bob hands the transaction to the Maude the Node. The Node places the transaction in the ‘Mempool’ & checks ledger.
+6. MINE & RECEIVE - The miner takes a look in the mempool and selects the transactions based on highest fees. They read out each transaction to the group the owners of the address claim the Bitcoin from the sender.
+
+<span style="text-decoration:underline;">FOLLOW-UP</span>									<span style="text-decoration:underline;">5 minutes</span>
+
+
+
+1. Demonstrate an on-chain transaction using the Bull Bitcoin Wallet.
+    1. Emphasise how easy the process is when it is digital.
+2. Discuss 
+    2. Wrong amounts and wrong addresses.
+    3. Losing private key (hand it to the hacker)
+
+<span style="text-decoration:underline;">CLOSE</span> 									<span style="text-decoration:underline;">4-5 minutes </span>
+
+
+
+    * Any questions?
+    * Mention connected workshops
+    * Ask where people are from
+    * Connect them with other locals-meetups-businesses esp. Transaction Fees.
+
+**<span style="text-decoration:underline;">NOTES</span> **
