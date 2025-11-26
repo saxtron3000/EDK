@@ -144,7 +144,7 @@ Please include:
 
 🛡️ License
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+This repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 Creative Commons License
 
@@ -158,5 +158,6 @@ Under the following terms:
     Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
     ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-For more information, please visit the
-Creative Commons Attribution-ShareAlike 4.0 International License webpage.
+For more information, please visit the Creative Commons Attribution-ShareAlike 4.0 International License webpage.
+
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
